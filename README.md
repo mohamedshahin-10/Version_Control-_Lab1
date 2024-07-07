@@ -18,7 +18,7 @@ git branch BranchName
 ```
 git switch branchName
 ```
-3.Make modifications on your local branch and then push these changes to your remote branch.
+3. Make modifications on your local branch and then push these changes to your remote branch.
 ```
 git add .
 git commit -m "your commit message"
